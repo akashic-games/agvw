@@ -1,4 +1,4 @@
 # ChangeLog
 
 ## 1.0.0
-* initial commit
+* 初期リリース
