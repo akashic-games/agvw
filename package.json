@@ -1,0 +1,18 @@
+{
+  "name": "@akashic/agvw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "author": "DWANGO Co., Ltd.",
+  "license": "MIT",
+  "publishConfig": {
+    "@akashic:registry": "https://registry.npmjs.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akashic-games/agvw.git"
+  },
+  "files": [
+    "dist"
+  ]
+}
