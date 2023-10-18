@@ -1,5 +1,8 @@
 # CHANGELOG
 
+## 1.0.3
+* Update to 3.6.2
+
 ## 1.0.2
 * Update to 3.5.0
 
