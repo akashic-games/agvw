@@ -1,5 +1,8 @@
 # CHANGELOG
 
+## 1.0.8
+* Update to 3.9.0
+
 ## 1.0.7
 * Update to 3.8.0
 
